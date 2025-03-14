@@ -25,7 +25,7 @@ python -m pip install web3
 ### Run Python Script
 
 ```bash
-python evm-wallet-maker.py
+python evm_wallet_maker.py
 ```
 
 ## Precaution
